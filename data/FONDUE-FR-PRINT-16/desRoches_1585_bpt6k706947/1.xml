@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<alto xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xmlns="http://www.loc.gov/standards/alto/ns-v4#"
+      xsi:schemaLocation="http://www.loc.gov/standards/alto/ns-v4# http://www.loc.gov/standards/alto/v4/alto-4-2.xsd">
+  <Description>
+    <MeasurementUnit>pixel</MeasurementUnit>
+    <sourceImageInformation>
+      <fileName>1.jpg</fileName>
+      
+    </sourceImageInformation>
+  </Description>
+  
+  <Tags>
+    <OtherTag ID="BT4951" LABEL="CustomZone" DESCRIPTION="block type CustomZone"/><OtherTag ID="BT4952" LABEL="DamageZone" DESCRIPTION="block type DamageZone"/><OtherTag ID="BT4953" LABEL="GraphicZone" DESCRIPTION="block type GraphicZone"/><OtherTag ID="BT4954" LABEL="DigitizationArtefactZone" DESCRIPTION="block type DigitizationArtefactZone"/><OtherTag ID="BT4955" LABEL="DropCapitalZone" DESCRIPTION="block type DropCapitalZone"/><OtherTag ID="BT4956" LABEL="MainZone" DESCRIPTION="block type MainZone"/><OtherTag ID="BT4957" LABEL="MarginTextZone" DESCRIPTION="block type MarginTextZone"/><OtherTag ID="BT4958" LABEL="MusicZone" DESCRIPTION="block type MusicZone"/><OtherTag ID="BT4959" LABEL="NumberingZone" DESCRIPTION="block type NumberingZone"/><OtherTag ID="BT4960" LABEL="QuireMarksZone" DESCRIPTION="block type QuireMarksZone"/><OtherTag ID="BT4961" LABEL="RunningTitleZone" DESCRIPTION="block type RunningTitleZone"/><OtherTag ID="BT4962" LABEL="SealZone" DESCRIPTION="block type SealZone"/><OtherTag ID="BT4963" LABEL="StampZone" DESCRIPTION="block type StampZone"/><OtherTag ID="BT4964" LABEL="TableZone" DESCRIPTION="block type TableZone"/><OtherTag ID="BT4965" LABEL="TitlePageZone" DESCRIPTION="block type TitlePageZone"/>
+    <OtherTag ID="LT1583" LABEL="MusicLine" DESCRIPTION="line type MusicLine"/><OtherTag ID="LT1582" LABEL="InterlinearLine" DESCRIPTION="line type InterlinearLine"/><OtherTag ID="LT1581" LABEL="HeadingLine" DESCRIPTION="line type HeadingLine"/><OtherTag ID="LT1580" LABEL="DropCapitalLine" DESCRIPTION="line type DropCapitalLine"/><OtherTag ID="LT1579" LABEL="DefaultLine" DESCRIPTION="line type DefaultLine"/><OtherTag ID="LT1578" LABEL="CustomLine" DESCRIPTION="line type CustomLine"/>
+  </Tags>
+  
+  <Layout>
+    <Page WIDTH="3456"
+          HEIGHT="4677"
+          PHYSICAL_IMG_NR="0"
+          ID="eSc_dummypage_">
+      <PrintSpace HPOS="0"
+                  VPOS="0"
+                  WIDTH="3456"
+                  HEIGHT="4677">
+        
+        <TextBlock HPOS="2212"
+                   VPOS="728"
+                   WIDTH="511"
+                   HEIGHT="359"
+                   ID="block_1"
+                   TAGREFS="BT4957">
+          <Shape><Polygon POINTS="2723 728 2723 1087 2212 1087 2212 728"/></Shape>
+          
+          
+          <TextLine ID="line_1"
+                    
+                    BASELINE="2273 943 2562 963 2650 958" 
+                    HPOS="2271.0"
+                    VPOS="847.0"
+                    WIDTH="379.0"
+                    HEIGHT="207.0">
+            <Shape><Polygon POINTS="2273 943 2271 976 2434 976 2471 1005 2520 1049 2523 1049 2525 1049 2619 1054 2621 1054 2624 1054 2627 1054 2627 1052 2645 1034 2650 958 2642 867 2616 888 2562 873 2559 873 2556 873 2494 880 2484 867 2473 860 2473 857 2471 857 2468 857 2465 857 2463 857 2437 867 2426 873 2424 867 2406 854 2406 852 2403 852 2401 852 2398 852 2395 852 2346 867 2341 870 2338 867 2304 847 2302 847 2299 847 2297 847 2294 847 2291 847 2276 857 2273 943"/></Shape>
+	    <String CONTENT="18400"
+                    HPOS="2271.0"
+                    VPOS="847.0"
+                    WIDTH="379.0"
+                    HEIGHT="207.0"
+                    WC="0.921196115016937"></String>
+          </TextLine>
+
+          
+        </TextBlock>
+        
+
+        
+      </PrintSpace>
+    </Page>
+  </Layout>
+</alto>
