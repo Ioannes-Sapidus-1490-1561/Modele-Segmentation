@@ -1,4 +1,4 @@
-data/Apologia_1534_1534/10_17511_default.xml
+data/Apologia_1534/10_17511_default.xml
 data/Apologia_1534/11_77e51_default.xml
 data/Apologia_1534/12_787a6_default.xml
 data/Apologia_1534/13_a36fc_default.xml
