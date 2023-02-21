@@ -1,0 +1,10 @@
+data/Apologia_1534/89_ddfff_default.xml
+data/Apologia_1534/8_60beb_default.xml
+data/Apologia_1534/90_da09b_default.xml
+data/Apologia_1534/91_07954_default.xml
+data/Apologia_1534/9_33729_default.xml
+data/Apologia_1534/81_4af17_default.xml
+data/Apologia_1534/82_24d8f_default.xml
+data/Apologia_1534/83_5edd8_default.xml
+data/Ad_Leonem_Pontificem_1514/8_c5baf_default
+data/Apothesosis_Erasmi_De poculo_1536-1537/Epitaphiorum_ac_tumulorum_libellus_quibus_Des_Erasmi_Roterodami_mors_defletur.pdf_page_25
